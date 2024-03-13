@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Modelo de prueba del repositorio de henry en github
+prueba de como crear y clonar un repositorio desde github
